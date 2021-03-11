@@ -1,1 +1,1 @@
-This project is an Accounting App for any business
+This project is an Accounting App for any business!

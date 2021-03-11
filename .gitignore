@@ -1,2 +1,7 @@
 .[oa]
 .[c]
+*.a
+!log.a
+doc/*.text
+document/**/*.text
+build/
